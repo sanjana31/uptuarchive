@@ -1,0 +1,7 @@
+#Wed Apr 19 17:53:52 IST 2017
+base.0=F\:\\4th year project related data\\saloni\\UptuArchive\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_48493131c98bed0f30f0ebbb446c0c5630032c2d
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=F\:\\4th year project related data\\saloni\\UptuArchive\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_53fb6ea59bb060b5689dfda2d507b327de2b7c50\\classes.dex
+base.1=F\:\\4th year project related data\\saloni\\UptuArchive\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_53fb6ea59bb060b5689dfda2d507b327de2b7c50
+file.0=F\:\\4th year project related data\\saloni\\UptuArchive\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_48493131c98bed0f30f0ebbb446c0c5630032c2d\\classes.dex
